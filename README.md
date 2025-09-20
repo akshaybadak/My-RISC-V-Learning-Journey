@@ -5,7 +5,12 @@ Documenting my RISC-V learning journey
 ## 🔹 Introduction  
 This is the starting point of my **RISC-V SoC learning journey**.  
 The objective of **Week 0** is to:  
-- Set up a working environment  
+## Set up a working environment
+- System requirement
+   6 GB RAM
+   50 GB HDD
+   Ubuntu 25.04
+   4 vCPU
 - Organize the repository  
 - Understand the workflow with GitHub  
 
@@ -18,7 +23,7 @@ The objective of **Week 0** is to:
 
 ## 🔹 System Setup  
 
-**OS:** Ubuntu 22.04 LTS (fresh installation)  
+**OS:** Ubuntu 25.04 LTS (fresh installation)  
 **Version Control:** GitHub (via HTTPS + PAT)  
 
 **Tools Installed:**  
@@ -27,7 +32,7 @@ The objective of **Week 0** is to:
 - Qrouter – Detailed routing tool  
 - Qflow – Digital synthesis flow manager  
 - OpenSTA – Static timing analysis  
-- Gtkwave – Waveform viewer  
+- Gtkwave – Waveform viewer
 - Yosys – Logic synthesis  
 - Icarus Verilog – RTL simulation  
 - Others: Make, GCC, Nano/VS Code, supporting libraries  
