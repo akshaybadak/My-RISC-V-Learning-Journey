@@ -9,16 +9,12 @@ The objective of **Week 0** is to:
 - Organize the repository  
 - Understand the workflow with GitHub  
 
----
-
 ## 🔹 Goals of Week 0  
 - Install and configure Linux environment  
 - Set up Git and connect with GitHub using PAT  
 - Install open-source VLSI/EDA tools  
 - Create structured folders for weekly tasks  
-- Document progress in a professional manner  
-
----
+- Document progress in a professional manner 
 
 ## 🔹 System Setup  
 
@@ -36,7 +32,6 @@ The objective of **Week 0** is to:
 - Icarus Verilog – RTL simulation  
 - Others: Make, GCC, Nano/VS Code, supporting libraries  
 
----
 
 ## 🔹 Tasks Completed  
 1. Installed Ubuntu successfully  
@@ -45,7 +40,6 @@ The objective of **Week 0** is to:
 4. Created repo structure → `Week0/Task0/`  
 5. Wrote initial `README.md` documenting setup  
 
----
 
 ## 🔹 Learnings  
 - How to authenticate GitHub using PAT  
