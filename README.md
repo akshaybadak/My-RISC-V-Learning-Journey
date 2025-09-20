@@ -7,10 +7,6 @@ This is the starting point of my **RISC-V SoC learning journey**.
 The objective of **Week 0** is to:  
 ## Set up a working environment
 - System requirement
-   6 GB RAM
-   50 GB HDD
-   Ubuntu 25.04
-   4 vCPU
 - Organize the repository  
 - Understand the workflow with GitHub  
 
